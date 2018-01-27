@@ -11597,7 +11597,7 @@ body[ng-controller] .modal {
 }
 .dashboard-stat2 .progress-info .progress {
 	margin: 0;
-	height: 4px;
+	height: 8px;
 	clear: both;
 	display: block
 }
