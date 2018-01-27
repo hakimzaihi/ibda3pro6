@@ -14589,7 +14589,7 @@ body[ng-controller] .modal {
 }
 .mt-widget-4, .mt-widget-4 .mt-container {
 	background-color: ;
-	min-height: 250px
+	min-height: 250px;
 }
 .mt-widget-3 .mt-head .mt-head-icon {
 	font-size: 35px;
