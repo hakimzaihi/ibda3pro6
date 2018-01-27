@@ -14644,13 +14644,15 @@ body[ng-controller] .modal {
 }
 .mt-widget-4 .mt-img-container>img {
 	height: 250px;
-	width: 100%
+	width: 100%;
+	border-radius: 20px;
 }
 .mt-widget-4 .mt-container {
 	width: 150px;
 	position: absolute;
 	left: 15px;
-	top: 0
+	top: 0;
+	border-radius: 20px;
 }
 .mt-widget-4 .mt-container .mt-head-title {
 	text-align: center;
