@@ -15095,7 +15095,7 @@ body[ng-controller] .modal {
 }
 .mt-element-list .list-default.mt-list-head .list-label {
 	display: inline-block;
-	font-size: 12px
+	font-size: 12px;
 }
 .mt-element-list .list-default.mt-list-container {
 	border-right: 1px solid;
