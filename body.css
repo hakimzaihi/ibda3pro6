@@ -14477,7 +14477,8 @@ body[ng-controller] .modal {
 }
 .mt-widget-2 {
 	border: 1px solid #e7ecf1;
-	position: relative
+	position: relative;
+	border-radius: 20px;
 }
 .mt-widget-2 .mt-head {
 	position: absolute;
@@ -14492,7 +14493,7 @@ body[ng-controller] .modal {
 }
 .mt-widget-2 .mt-head .mt-head-label>button {
 	font-size: 13px;
-	border-radius: 50% !important
+	border-radius: 17px;
 }
 .mt-widget-2 .mt-head .mt-head-user .mt-head-user-img {
 	position: relative;
