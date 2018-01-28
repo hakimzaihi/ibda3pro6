@@ -10101,7 +10101,7 @@ body[ng-controller] .modal {
 	display: block;
 	margin-bottom: 25px;
 	overflow: hidden;
-	border-radius: 2px
+	border-radius: 12px
 }
 .dashboard-stat:after, .dashboard-stat:before {
 	content: " ";
