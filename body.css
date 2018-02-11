@@ -9853,7 +9853,7 @@ body[ng-controller] .modal {
 	border-radius: 0!important
 }
 .dashboard-stat, .dashboard-stat2, .page-md .widget-bg-color-white, .page-md .widget-blog, .page-md .widget-carousel, .page-md .widget-map, .page-md .widget-progress-element, .page-md .widget-socials {
-	box-shadow: 0 2px 3px 2px rgba(0, 0, 0, .03)
+	    box-shadow: 3px 8px 20px 2px rgba(0, 0, 0, 0.23);
 }
 .page-md .progress {
 	text-indent: -99999px
