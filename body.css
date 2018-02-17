@@ -6960,7 +6960,8 @@ body[ng-controller] .modal {
 	padding: 8px 0
 }
 .portlet.light.portlet-fit {
-	padding: 0
+	padding: 0;
+	border-radius: 20px 20px 0px 0px;
 }
 .portlet.light.portlet-fit>.portlet-title {
 	padding: 15px 20px 10px
