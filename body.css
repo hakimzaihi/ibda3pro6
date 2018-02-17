@@ -6966,7 +6966,7 @@ body[ng-controller] .modal {
 	padding: 15px 20px 10px
 }
 .portlet.light.portlet-fit>.portlet-body {
-	padding: 10px 20px 20px
+	padding: 10px 15px 10px;
 }
 .portlet.light.portlet-fit.portlet-form>.portlet-body {
 	padding: 0
