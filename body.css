@@ -14494,7 +14494,7 @@ body[ng-controller] .modal {
 }
 .mt-widget-2 .mt-head .mt-head-label>button {
 	font-size: 13px;
-	border-radius: 17px;
+	    border-radius: 20px !important;
 }
 .mt-widget-2 .mt-head .mt-head-user .mt-head-user-img {
 	position: relative;
